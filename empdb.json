@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "prasath",
+      "password": "prasath",
+      "company": "zoho",
+      "application": [
+        {
+          "apli_id": 1,
+          "name": "vasanth",
+          "currently_doing": "student",
+          "candidate_id": 1
+        }
+      ],
+      "posted": [
+        {
+          "emp_id": 1,
+          "id": 1,
+          "role": "javaScript developer",
+          "description": "Basic knowledge about javascript frameworks like react,angular,vue js"
+        },
+        {
+          "emp_id": 1,
+          "id": 2,
+          "role": "java developer",
+          "description": "Basic knowledge about javascript frameworks like react,angular,vue js"
+        },
+        {
+          "emp_id": 1,
+          "id": 2,
+          "role": "node js",
+          "description": "Basic knowledge about javascript frameworks like react,angular,vue js"
+        }
+      ],
+      "currently_doing": "student",
+      "experience": "2",
+      "candidate_id": 0
+    },
+    {
+      "id": "2",
+      "name": "vasanth",
+      "password": "vasanth",
+      "company": "infosys",
+      "application": [],
+      "posted": []
+    }
+  ]
+}
